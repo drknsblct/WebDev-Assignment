@@ -25,15 +25,18 @@ body {
 
 #software {
     background-image: url('../../IMAGES/matrix.jpg');
-}  
+} 
+
 
 #hidden, #hidden2, #hidden3 {
     display: none;
 }
 
+
 a {
     color:#e8e6e4;
 }
+
 
 .foot {
     color:white;
@@ -42,9 +45,11 @@ a {
     
 }
 
+
 .red {
     color:#ea3323;
 }
+
 
 .blue {
     color:#0000ff;
@@ -61,3 +66,6 @@ a {
 }
   
  
+ul {
+    color: red;
+}
