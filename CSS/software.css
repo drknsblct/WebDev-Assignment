@@ -20,8 +20,12 @@ h1 {
 
 body {
     background-color: #181a1b;
-    
 }
+
+
+#software {
+    background-image: url('../../IMAGES/matrix.jpg');
+}  
 
 #hidden, #hidden2, #hidden3 {
     display: none;
@@ -31,3 +35,13 @@ a {
     color: red;
 }
 
+.foot {
+    color:white;
+    background-color: #181a1b;
+    padding: 10px 10px;
+    
+}
+
+.navbar {
+    background-color: #181a1b;
+}
