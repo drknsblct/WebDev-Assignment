@@ -1,0 +1,33 @@
+/* CS19013 */
+
+/* changes imgs in software.html */
+.change:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=100);
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.card {
+    background-color: #181a1b;
+    color: #e8e6e3;
+}
+
+
+body {
+    background-color: #181a1b;
+    
+}
+
+#hidden, #hidden2, #hidden3 {
+    display: none;
+}
+
+a {
+    color: red;
+}
+
