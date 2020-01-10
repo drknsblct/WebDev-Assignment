@@ -42,6 +42,7 @@ a {
     
 }
 
-.navbar {
-    background-color: #181a1b;
+.navbar-default {
+    background-color: #F8F8F8;
+    border-color: #E7E7E7;
 }
